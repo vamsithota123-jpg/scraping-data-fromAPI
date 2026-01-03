@@ -1,3 +1,9 @@
+
+
+<img width="1006" height="666" alt="image" src="https://github.com/user-attachments/assets/c202b920-fdd3-4ba7-93ff-474fbd546731" />
+
+
+
 Fake Store API – Product Scraper 🚀
 
 A simple Node.js application that fetches (scrapes) product data from the Fake Store API and stores it into MongoDB using Express and Mongoose.
@@ -25,13 +31,4 @@ ODM: Mongoose
 
 HTTP Client: Axios
 
-Project Structure
-fakestore-scraper/
-│
-├── models/
-│   └── Product.js
-│
-├── index.js
-├── .env
-├── package.json
-└── README.md
+
